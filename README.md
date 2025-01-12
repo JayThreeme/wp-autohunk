@@ -8,7 +8,7 @@
 
 ![Screenshot of Autohunk](layout/layout.png)
 
-![Screenshot of Autohunk](layout/mockup.png)
+![Screenshot of Autohunk](layout/mockup.jpg)
 
 ## Contents
 
